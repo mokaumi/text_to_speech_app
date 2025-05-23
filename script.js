@@ -46,3 +46,4 @@ speakBtn.addEventListener("click", () => {
 
   synth.speak(utterance);
 });
+// this project is scalable you can upgrade it
